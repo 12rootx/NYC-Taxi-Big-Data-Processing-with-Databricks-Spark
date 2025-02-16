@@ -30,4 +30,5 @@ Evaluating the scalability and flexibility of Databricks in handling large-scale
 The dataset used in this project was obtained from the New York City Taxi and Limousine Commission (TLC) and can be accessed through the following resources:
 
 NYC Taxi and Limousine Commission (TLC) website
+
 This project is part of the Master of Data Science and Innovation course at University of Technology Sydney (UTS).
