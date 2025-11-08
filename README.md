@@ -4,6 +4,8 @@
 The New York City Taxi and Limousine Commission (TLC) has made publicly available a massive dataset, consisting of billions of taxi records from the city's yellow and green taxis. This project aims to process, analyze, and build machine learning pipelines to gain business insights and predict trip fares. The project uses Spark on Databricks for efficient data processing and transformation, leveraging Azure cloud storage for data storage and scalability.
 
 ## Analysis Procedures:
+<img width="634" height="428" alt="image" src="https://github.com/user-attachments/assets/49011c17-f220-491b-8984-ae0ca13d1ec9" />
+
 ### Setup (Part 0):
 
 Setting up Azure cloud environment for storing the raw data.
