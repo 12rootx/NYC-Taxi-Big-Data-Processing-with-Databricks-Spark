@@ -23,6 +23,8 @@ Analyzing trends, peak times, and factors affecting fares.
 
 Building machine learning pipelines using Pyspark to predict taxi fares based on historical data.
 Evaluating different models such as Linear Regression and Decision Trees, and choosing the best-performing one for the prediction task.
+<img width="596" height="362" alt="image" src="https://github.com/user-attachments/assets/7faa87cd-50ec-46d9-bb88-024653de0f23" />
+
 ### Conclusion (Part 4):
 
 Drawing conclusions based on the analysis and model results.
