@@ -19,6 +19,7 @@ Using SparkSQL for data exploration and preparation.
 Conducting business analysis using SparkSQL to uncover insights about taxi trips, such as average fare by time of day, distance traveled, or location.
 Analyzing trends, peak times, and factors affecting fares.
 ### Machine Learning Pipelines (Part 3):
+<img width="738" height="415" alt="image" src="https://github.com/user-attachments/assets/faec3a4a-79bb-4948-b8da-15e41ce6c59f" />
 
 Building machine learning pipelines using Pyspark to predict taxi fares based on historical data.
 Evaluating different models such as Linear Regression and Decision Trees, and choosing the best-performing one for the prediction task.
